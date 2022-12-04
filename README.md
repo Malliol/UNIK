@@ -1,3 +1,3 @@
-# (ИТМО)[https://itmo.ru/]
+# [ИТМО](https://itmo.ru/)
 
-# innopolis-university
+# [innopolis-university](https://innopolis.university/)
